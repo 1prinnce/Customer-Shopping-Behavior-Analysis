@@ -1,10 +1,10 @@
-# Customer Shopping Behavior Analysis
+# 🛒 Customer Shopping Behavior Analysis
 
 > End-to-End Data Analytics Project using **Python, SQL, and Power BI** to analyze customer shopping behavior, uncover purchasing trends, and generate actionable business insights.
 
 ---
 
-# Business Problem
+# 📌 Business Problem
 
 A retail company wants to better understand customer purchasing behavior to improve revenue, customer engagement, and long-term loyalty.
 
@@ -12,7 +12,7 @@ The objective is to analyze shopping data and answer important business question
 
 ---
 
-# Project Objectives
+# 🎯 Project Objectives
 
 - Clean and preprocess raw customer shopping data
 - Perform Exploratory Data Analysis (EDA)
@@ -22,7 +22,7 @@ The objective is to analyze shopping data and answer important business question
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -33,7 +33,7 @@ The objective is to analyze shopping data and answer important business question
 
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```
 Customer-Shopping-Behavior-Analysis
@@ -48,7 +48,7 @@ Customer-Shopping-Behavior-Analysis
 
 ---
 
-# Dataset Information
+# 📊 Dataset Information
 
 - Total Records: **3,900**
 - Total Columns: **18**
@@ -63,25 +63,25 @@ Customer-Shopping-Behavior-Analysis
 
 ---
 
-# Data Cleaning
+# 🔍 Data Cleaning
 
- Checked Missing Values
+✔ Checked Missing Values
 
- Imputed Missing Review Ratings
+✔ Imputed Missing Review Ratings
 
- Standardized Column Names
+✔ Standardized Column Names
 
- Created Age Groups
+✔ Created Age Groups
 
- Feature Engineering
+✔ Feature Engineering
 
- Removed Redundant Columns
+✔ Removed Redundant Columns
 
- Data Validation
+✔ Data Validation
 
 ---
 
-# Exploratory Data Analysis
+# 📈 Exploratory Data Analysis
 
 Performed detailed analysis on
 
@@ -96,7 +96,7 @@ Performed detailed analysis on
 
 ---
 
-# SQL Business Analysis
+# 🗄 SQL Business Analysis
 
 Solved multiple real-world business questions including:
 
@@ -113,7 +113,7 @@ Solved multiple real-world business questions including:
 
 ---
 
-# Power BI Dashboard
+# 📊 Power BI Dashboard
 
 The dashboard provides interactive insights including:
 
@@ -129,7 +129,7 @@ The dashboard provides interactive insights including:
 
 ---
 
-# Key Business Insights
+# 💡 Key Business Insights
 
 - Clothing category generated the highest revenue.
 - Young Adults contributed the largest share of total sales.
@@ -150,7 +150,7 @@ The dashboard provides interactive insights including:
 
 ---
 
-#  Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
@@ -165,9 +165,26 @@ The dashboard provides interactive insights including:
 
 ---
 
-# Author
+# 📁 Repository Contents
 
-**Prince Yadav**
+ Raw Dataset
+
+ Python Notebook
+
+ SQL Queries
+
+ Power BI Dashboard
+
+ Business Report
+
+ Presentation
+
 ---
 
-##  If you found this project useful, don't forget to Star this repository.
+# 👨‍💻 Author
+
+**Prince Yadav**
+
+---
+
+## ⭐ If you found this project useful, don't forget to Star this repository.
