@@ -150,11 +150,6 @@ The dashboard provides interactive insights including:
 
 ---
 
-# Dashboard Preview
-
-> ![Customer Behavior Dashboard](images/dashboard.png)
----
-
 #  Skills Demonstrated
 
 - Data Cleaning
