@@ -152,7 +152,7 @@ The dashboard provides interactive insights including:
 
 # Dashboard Preview
 
-> ![Customer Behavior Dashboard](dashboard.png)
+> ![Customer Behavior Dashboard](images/dashboard.png)
 ---
 
 #  Skills Demonstrated
